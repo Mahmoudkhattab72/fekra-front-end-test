@@ -1,9 +1,0 @@
-react-native-user-list/
-├── src/
-│   ├── components/
-│   │   ├── SearchBar.js
-│   │   └── UserCard.js
-│   └── redux/
-│       ├── store.js
-│       └── userSlice.js
-├── App.js
